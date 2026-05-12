@@ -1,0 +1,532 @@
+# DSA Revision Roadmap (May 2026 → December 2026)
+
+**Goal:** Revise 10 questions every week with balanced pattern exposure.
+
+### Revision Weighting
+
+* **Tier 1:** Revised frequently (core FAANG-level patterns)
+* **Tier 2:** Revised moderately
+* **Tier 3:** Revised occasionally
+
+### Rules Followed
+
+* 10 questions per week
+* Mixed patterns every week
+* Tier 1 repeated multiple times
+* Tier 2 repeated sometimes
+* Tier 3 lightly revised
+* Strong focus on Graphs, Trees, Sliding Window, Prefix Sum, Dijkstra
+
+---
+
+# MAY 2026
+
+## Week 1 — May 11–17
+
+1. Two Sum — Revision 1
+2. Longest Substring Without Repeating Characters — Revision 1
+3. Container With Most Water — Revision 1
+4. Maximum Subarray — Revision 1
+5. Binary Tree Level Order Traversal — Revision 1
+6. Clone Graph — Revision 1
+7. Course Schedule — Revision 1
+8. Network Delay Time — Revision 1
+9. Product of Array Except Self — Revision 1
+10. Rotting Oranges — Revision 1
+
+## Week 2 — May 18–24
+
+1. Trapping Rain Water — Revision 1
+2. Longest Repeating Character Replacement — Revision 1
+3. Binary Tree Maximum Path Sum — Revision 1
+4. Path Sum III — Revision 1
+5. Pacific Atlantic Water Flow — Revision 1
+6. Cheapest Flights Within K Stops — Revision 1
+7. Sliding Window Maximum — Revision 1
+8. Number of Islands — Revision 1
+9. Binary Search Tree Iterator — Revision 1
+10. Gas Station — Revision 1
+
+## Week 3 — May 25–31
+
+1. Word Ladder — Revision 1
+2. Evaluate Division — Revision 1
+3. Course Schedule II — Revision 1
+4. Subarray Sum Equals K — Revision 1
+5. Diameter of Binary Tree — Revision 1
+6. Kth Smallest Element in a BST — Revision 1
+7. Find Eventual Safe States — Revision 1
+8. Path With Minimum Effort — Revision 1
+9. Most Stones Removed with Same Row or Column — Revision 1
+10. Binary Tree Right Side View — Revision 1
+
+---
+
+# JUNE 2026
+
+## Week 4 — June 1–7
+
+1. Number of Ways to Arrive at Destination — Revision 1
+2. Surrounded Regions — Revision 1
+3. Max Area of Island — Revision 1
+4. Serialize and Deserialize Binary Tree — Revision 1
+5. Lowest Common Ancestor of a Binary Tree — Revision 1
+6. Validate Binary Search Tree — Revision 1
+7. Sliding Window Maximum — Revision 2
+8. Longest Substring Without Repeating Characters — Revision 2
+9. Product of Array Except Self — Revision 2
+10. Binary Subarrays With Sum — Revision 1
+
+## Week 5 — June 8–14
+
+1. Two Sum — Revision 2
+2. Container With Most Water — Revision 2
+3. Trapping Rain Water — Revision 2
+4. Clone Graph — Revision 2
+5. Course Schedule — Revision 2
+6. Rotting Oranges — Revision 2
+7. Cheapest Flights Within K Stops — Revision 2
+8. Maximum Sum Circular Subarray — Revision 1
+9. Valid Palindrome — Revision 1
+10. Flood Fill — Revision 1
+
+## Week 6 — June 15–21
+
+1. Pacific Atlantic Water Flow — Revision 2
+2. Path Sum III — Revision 2
+3. Word Ladder — Revision 2
+4. Network Delay Time — Revision 2
+5. Number of Islands — Revision 2
+6. Diameter of Binary Tree — Revision 2
+7. Binary Tree Maximum Path Sum — Revision 2
+8. Kth Smallest Element in a BST — Revision 2
+9. Binary Tree Zigzag Level Order Traversal — Revision 1
+10. Online Stock Span — Revision 1
+
+## Week 7 — June 22–28
+
+1. Course Schedule II — Revision 2
+2. Find Eventual Safe States — Revision 2
+3. Path With Minimum Effort — Revision 2
+4. Number of Ways to Arrive at Destination — Revision 2
+5. Max Area of Island — Revision 2
+6. Lowest Common Ancestor of a Binary Tree — Revision 2
+7. Serialize and Deserialize Binary Tree — Revision 2
+8. Binary Search Tree Iterator — Revision 2
+9. 01 Matrix — Revision 1
+10. Move Zeroes — Revision 1
+
+---
+
+# JULY 2026
+
+## Week 8 — June 29–July 5
+
+1. Two Sum — Revision 3
+2. Longest Repeating Character Replacement — Revision 2
+3. Sliding Window Maximum — Revision 3
+4. Subarray Sum Equals K — Revision 2
+5. Clone Graph — Revision 3
+6. Word Ladder — Revision 3
+7. Cheapest Flights Within K Stops — Revision 3
+8. Course Schedule — Revision 3
+9. Balanced Binary Tree — Revision 1
+10. Reverse Linked List — Revision 1
+
+## Week 9 — July 6–12
+
+1. Trapping Rain Water — Revision 3
+2. Product of Array Except Self — Revision 3
+3. Path Sum III — Revision 3
+4. Pacific Atlantic Water Flow — Revision 3
+5. Rotting Oranges — Revision 3
+6. Number of Islands — Revision 3
+7. Diameter of Binary Tree — Revision 3
+8. Path With Minimum Effort — Revision 3
+9. Binary Tree Inorder Traversal — Revision 1
+10. Minimum Size Subarray Sum — Revision 1
+
+## Week 10 — July 13–19
+
+1. Binary Tree Maximum Path Sum — Revision 3
+2. Serialize and Deserialize Binary Tree — Revision 3
+3. Network Delay Time — Revision 3
+4. Find Eventual Safe States — Revision 3
+5. Number of Ways to Arrive at Destination — Revision 3
+6. Most Stones Removed with Same Row or Column — Revision 2
+7. Kth Smallest Element in a BST — Revision 3
+8. Evaluate Division — Revision 2
+9. Symmetric Tree — Revision 1
+10. Power of Two — Revision 1
+
+## Week 11 — July 20–26
+
+1. Course Schedule II — Revision 3
+2. Binary Tree Right Side View — Revision 2
+3. Binary Tree Level Order Traversal — Revision 2
+4. Longest Substring Without Repeating Characters — Revision 3
+5. Sliding Window Maximum — Revision 4
+6. Clone Graph — Revision 4
+7. Cheapest Flights Within K Stops — Revision 4
+8. Rotting Oranges — Revision 4
+9. Max Consecutive Ones III — Revision 1
+10. Peak Index in a Mountain Array — Revision 1
+
+---
+
+# AUGUST 2026
+
+## Week 12 — July 27–August 2
+
+1. Two Sum — Revision 4
+2. Trapping Rain Water — Revision 4
+3. Product of Array Except Self — Revision 4
+4. Path Sum III — Revision 4
+5. Word Ladder — Revision 4
+6. Pacific Atlantic Water Flow — Revision 4
+7. Network Delay Time — Revision 4
+8. Path With Minimum Effort — Revision 4
+9. Lowest Common Ancestor of a BST — Revision 1
+10. Count Complete Tree Nodes — Revision 1
+
+## Week 13 — August 3–9
+
+1. Diameter of Binary Tree — Revision 4
+2. Number of Islands — Revision 4
+3. Clone Graph — Revision 5
+4. Course Schedule — Revision 4
+5. Course Schedule II — Revision 4
+6. Find Eventual Safe States — Revision 4
+7. Binary Tree Maximum Path Sum — Revision 4
+8. Number of Ways to Arrive at Destination — Revision 4
+9. Reverse Words in a String — Revision 1
+10. Pascal’s Triangle — Revision 1
+
+## Week 14 — August 10–16
+
+1. Cheapest Flights Within K Stops — Revision 5
+2. Sliding Window Maximum — Revision 5
+3. Longest Repeating Character Replacement — Revision 3
+4. Maximum Subarray — Revision 2
+5. Evaluate Division — Revision 3
+6. Rotting Oranges — Revision 5
+7. Serialize and Deserialize Binary Tree — Revision 4
+8. Binary Tree Right Side View — Revision 3
+9. Count Good Nodes in Binary Tree — Revision 1
+10. Binary Tree Postorder Traversal — Revision 1
+
+## Week 15 — August 17–23
+
+1. Product of Array Except Self — Revision 5
+2. Path Sum III — Revision 5
+3. Word Ladder — Revision 5
+4. Path With Minimum Effort — Revision 5
+5. Network Delay Time — Revision 5
+6. Most Stones Removed with Same Row or Column — Revision 3
+7. Number of Islands — Revision 5
+8. Diameter of Binary Tree — Revision 5
+9. 01 Matrix — Revision 2
+10. Flood Fill — Revision 2
+
+---
+
+# SEPTEMBER 2026
+
+## Week 16 — August 24–30
+
+1. Two Sum — Revision 5
+2. Clone Graph — Revision 6
+3. Sliding Window Maximum — Revision 6
+4. Cheapest Flights Within K Stops — Revision 6
+5. Course Schedule — Revision 5
+6. Course Schedule II — Revision 5
+7. Pacific Atlantic Water Flow — Revision 5
+8. Number of Ways to Arrive at Destination — Revision 5
+9. Move Zeroes — Revision 2
+10. Valid Palindrome — Revision 2
+
+## Week 17 — August 31–September 6
+
+1. Binary Tree Maximum Path Sum — Revision 5
+2. Longest Substring Without Repeating Characters — Revision 4
+3. Rotting Oranges — Revision 6
+4. Product of Array Except Self — Revision 6
+5. Kth Smallest Element in a BST — Revision 4
+6. Binary Tree Level Order Traversal — Revision 3
+7. Serialize and Deserialize Binary Tree — Revision 5
+8. Find Eventual Safe States — Revision 5
+9. Max Consecutive Ones — Revision 1
+10. Single Element in a Sorted Array — Revision 1
+
+## Week 18 — September 7–13
+
+1. Trapping Rain Water — Revision 5
+2. Path Sum III — Revision 6
+3. Network Delay Time — Revision 6
+4. Word Ladder — Revision 6
+5. Number of Islands — Revision 6
+6. Cheapest Flights Within K Stops — Revision 7
+7. Path With Minimum Effort — Revision 6
+8. Diameter of Binary Tree — Revision 6
+9. Construct BST from Preorder Traversal — Revision 1
+10. Average of Levels in Binary Tree — Revision 1
+
+## Week 19 — September 14–20
+
+1. Sliding Window Maximum — Revision 7
+2. Longest Repeating Character Replacement — Revision 4
+3. Pacific Atlantic Water Flow — Revision 6
+4. Clone Graph — Revision 7
+5. Course Schedule II — Revision 6
+6. Number of Ways to Arrive at Destination — Revision 6
+7. Most Stones Removed with Same Row or Column — Revision 4
+8. Binary Search Tree Iterator — Revision 3
+9. Power of Three — Revision 1
+10. Sort Integers by Number of 1 Bits — Revision 1
+
+---
+
+# OCTOBER 2026
+
+## Week 20 — September 21–27
+
+1. Two Sum — Revision 6
+2. Product of Array Except Self — Revision 7
+3. Word Ladder — Revision 7
+4. Cheapest Flights Within K Stops — Revision 8
+5. Rotting Oranges — Revision 7
+6. Network Delay Time — Revision 7
+7. Number of Islands — Revision 7
+8. Binary Tree Maximum Path Sum — Revision 6
+9. Binary Tree Zigzag Level Order Traversal — Revision 2
+10. Reverse Linked List — Revision 2
+
+## Week 21 — September 28–October 4
+
+1. Sliding Window Maximum — Revision 8
+2. Path Sum III — Revision 7
+3. Clone Graph — Revision 8
+4. Pacific Atlantic Water Flow — Revision 7
+5. Find Eventual Safe States — Revision 6
+6. Diameter of Binary Tree — Revision 7
+7. Course Schedule — Revision 6
+8. Path With Minimum Effort — Revision 7
+9. Build an Array With Stack Operations — Revision 1
+10. Minimum Absolute Difference in BST — Revision 1
+
+## Week 22 — October 5–11
+
+1. Trapping Rain Water — Revision 6
+2. Longest Repeating Character Replacement — Revision 5
+3. Number of Ways to Arrive at Destination — Revision 7
+4. Cheapest Flights Within K Stops — Revision 9
+5. Serialize and Deserialize Binary Tree — Revision 6
+6. Kth Smallest Element in a BST — Revision 5
+7. Most Stones Removed with Same Row or Column — Revision 5
+8. Binary Tree Right Side View — Revision 4
+9. Power of Four — Revision 1
+10. Roman to Integer — Revision 1
+
+## Week 23 — October 12–18
+
+1. Two Sum — Revision 7
+2. Sliding Window Maximum — Revision 9
+3. Word Ladder — Revision 8
+4. Clone Graph — Revision 9
+5. Rotting Oranges — Revision 8
+6. Product of Array Except Self — Revision 8
+7. Path Sum III — Revision 8
+8. Number of Islands — Revision 8
+9. Binary Tree Postorder Traversal — Revision 2
+10. Count Good Nodes in Binary Tree — Revision 2
+
+---
+
+# NOVEMBER 2026
+
+## Week 24 — October 19–25
+
+1. Pacific Atlantic Water Flow — Revision 8
+2. Cheapest Flights Within K Stops — Revision 10
+3. Network Delay Time — Revision 8
+4. Path With Minimum Effort — Revision 8
+5. Diameter of Binary Tree — Revision 8
+6. Course Schedule II — Revision 7
+7. Binary Tree Maximum Path Sum — Revision 7
+8. Serialize and Deserialize Binary Tree — Revision 7
+9. Online Stock Span — Revision 2
+10. Move Zeroes — Revision 3
+
+## Week 25 — October 26–November 1
+
+1. Sliding Window Maximum — Revision 10
+2. Longest Substring Without Repeating Characters — Revision 5
+3. Number of Ways to Arrive at Destination — Revision 8
+4. Clone Graph — Revision 10
+5. Find Eventual Safe States — Revision 7
+6. Word Ladder — Revision 9
+7. Product of Array Except Self — Revision 9
+8. Rotting Oranges — Revision 9
+9. Flood Fill — Revision 3
+10. Reverse Words in a String — Revision 2
+
+## Week 26 — November 2–8
+
+1. Trapping Rain Water — Revision 7
+2. Cheapest Flights Within K Stops — Revision 11
+3. Number of Islands — Revision 9
+4. Path Sum III — Revision 9
+5. Pacific Atlantic Water Flow — Revision 9
+6. Diameter of Binary Tree — Revision 9
+7. Network Delay Time — Revision 9
+8. Kth Smallest Element in a BST — Revision 6
+9. Pascal’s Triangle — Revision 2
+10. Binary Tree Inorder Traversal — Revision 2
+
+## Week 27 — November 9–15
+
+1. Two Sum — Revision 8
+2. Sliding Window Maximum — Revision 11
+3. Clone Graph — Revision 11
+4. Course Schedule — Revision 7
+5. Course Schedule II — Revision 8
+6. Path With Minimum Effort — Revision 9
+7. Binary Tree Maximum Path Sum — Revision 8
+8. Most Stones Removed with Same Row or Column — Revision 6
+9. Count Complete Tree Nodes — Revision 2
+10. 01 Matrix — Revision 3
+
+---
+
+# DECEMBER 2026
+
+## Week 28 — November 16–22
+
+1. Word Ladder — Revision 10
+2. Rotting Oranges — Revision 10
+3. Product of Array Except Self — Revision 10
+4. Longest Repeating Character Replacement — Revision 6
+5. Number of Ways to Arrive at Destination — Revision 9
+6. Find Eventual Safe States — Revision 8
+7. Serialize and Deserialize Binary Tree — Revision 8
+8. Diameter of Binary Tree — Revision 10
+9. Power of Two — Revision 2
+10. Single Element in a Sorted Array — Revision 2
+
+## Week 29 — November 23–29
+
+1. Cheapest Flights Within K Stops — Revision 12
+2. Sliding Window Maximum — Revision 12
+3. Path Sum III — Revision 10
+4. Pacific Atlantic Water Flow — Revision 10
+5. Clone Graph — Revision 12
+6. Number of Islands — Revision 10
+7. Network Delay Time — Revision 10
+8. Binary Search Tree Iterator — Revision 4
+9. Binary Tree Zigzag Level Order Traversal — Revision 3
+10. Reverse Linked List — Revision 3
+
+## Week 30 — November 30–December 6
+
+1. Two Sum — Revision 9
+2. Trapping Rain Water — Revision 8
+3. Word Ladder — Revision 11
+4. Course Schedule — Revision 8
+5. Course Schedule II — Revision 9
+6. Path With Minimum Effort — Revision 10
+7. Binary Tree Maximum Path Sum — Revision 9
+8. Product of Array Except Self — Revision 11
+9. Max Consecutive Ones III — Revision 2
+10. Valid Palindrome — Revision 3
+
+## Week 31 — December 7–13
+
+1. Sliding Window Maximum — Revision 13
+2. Cheapest Flights Within K Stops — Revision 13
+3. Rotting Oranges — Revision 11
+4. Diameter of Binary Tree — Revision 11
+5. Number of Ways to Arrive at Destination — Revision 10
+6. Pacific Atlantic Water Flow — Revision 11
+7. Clone Graph — Revision 13
+8. Find Eventual Safe States — Revision 9
+9. Build an Array With Stack Operations — Revision 2
+10. Sort Integers by Number of 1 Bits — Revision 2
+
+## Week 32 — December 14–20
+
+1. Path Sum III — Revision 11
+2. Number of Islands — Revision 11
+3. Network Delay Time — Revision 11
+4. Word Ladder — Revision 12
+5. Product of Array Except Self — Revision 12
+6. Serialize and Deserialize Binary Tree — Revision 9
+7. Kth Smallest Element in a BST — Revision 7
+8. Most Stones Removed with Same Row or Column — Revision 7
+9. Binary Tree Inorder Traversal — Revision 3
+10. Reverse Words in a String — Revision 3
+
+## Week 33 — December 21–27
+
+1. Two Sum — Revision 10
+2. Sliding Window Maximum — Revision 14
+3. Cheapest Flights Within K Stops — Revision 14
+4. Clone Graph — Revision 14
+5. Rotting Oranges — Revision 12
+6. Course Schedule II — Revision 10
+7. Binary Tree Maximum Path Sum — Revision 10
+8. Diameter of Binary Tree — Revision 12
+9. Flood Fill — Revision 4
+10. Power of Three — Revision 2
+
+## Week 34 — December 28–31
+
+1. Word Ladder — Revision 13
+2. Path With Minimum Effort — Revision 11
+3. Pacific Atlantic Water Flow — Revision 12
+4. Number of Ways to Arrive at Destination — Revision 11
+5. Product of Array Except Self — Revision 13
+6. Network Delay Time — Revision 12
+7. Path Sum III — Revision 12
+8. Number of Islands — Revision 12
+9. Online Stock Span — Revision 3
+10. Roman to Integer — Revision 2
+
+---
+
+# Most Revised Questions By End of 2026
+
+## Revision Gods (10+ revisions)
+
+* Sliding Window Maximum
+* Cheapest Flights Within K Stops
+* Clone Graph
+* Word Ladder
+* Product of Array Except Self
+* Number of Islands
+* Path Sum III
+* Diameter of Binary Tree
+* Rotting Oranges
+* Network Delay Time
+* Pacific Atlantic Water Flow
+
+## High ROI Graph Set
+
+* Course Schedule I & II
+* Find Eventual Safe States
+* Path With Minimum Effort
+* Number of Ways to Arrive at Destination
+* Most Stones Removed with Same Row or Column
+
+## High ROI Tree Set
+
+* Binary Tree Maximum Path Sum
+* Serialize and Deserialize Binary Tree
+* Kth Smallest Element in BST
+* Diameter of Binary Tree
+
+## High ROI Sliding Window / Prefix Set
+
+* Longest Repeating Character Replacement
+* Sliding Window Maximum
+* Binary Subarrays With Sum
+* Subarray Sum Equals K
