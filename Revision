@@ -1,0 +1,288 @@
+Arrays & Hashing
+
+## Tier 1
+
+1. Two Sum
+2. Contains Duplicate II
+3. Product of Array Except Self
+4. Subarray Sum Equals K
+
+## Tier 2
+
+5. Plus One
+6. Rotate Array
+7. Find All Numbers Disappeared in an Array
+8. Max Consecutive Ones
+9. How Many Numbers Are Smaller Than the Current Number
+10. Maximum Sum Circular Subarray
+
+## Tier 3
+
+11. Shuffle the Array
+12. Concatenation of Array
+13. Set Mismatch
+14. Count Hills and Valleys in an Array
+15. Separate the Digits in an Array
+16. Concatenate Array With Reverse
+
+---
+
+Sliding Window
+
+## Tier 1
+
+17. Longest Substring Without Repeating Characters
+18. Longest Repeating Character Replacement
+19. Sliding Window Maximum
+
+## Tier 2
+
+20. Minimum Size Subarray Sum
+21. Binary Subarrays With Sum
+22. Max Consecutive Ones III
+
+---
+
+Two Pointers
+
+## Tier 1
+
+23. Container With Most Water
+24. Trapping Rain Water
+
+## Tier 2
+
+25. Valid Palindrome
+26. Move Zeroes
+
+## Tier 3
+
+27. Remove Element
+28. Valid Palindrome (duplicate in your list)
+
+---
+
+Kadane / Prefix Sum
+
+## Tier 1
+
+29. Maximum Subarray
+30. Path Sum III
+31. Subarray Sum Equals K
+
+## Tier 2
+
+32. Maximum Sum Circular Subarray
+33. Binary Subarrays With Sum
+
+---
+
+Trees & BSTs
+
+## Tier 1
+
+34. Validate Binary Search Tree
+35. Binary Tree Level Order Traversal
+36. Construct Binary Tree from Preorder and Inorder Traversal
+37. Flatten Binary Tree to Linked List
+38. Binary Tree Maximum Path Sum
+39. Sum Root to Leaf Numbers
+40. Binary Search Tree Iterator
+41. Binary Tree Right Side View
+42. Invert Binary Tree
+43. Kth Smallest Element in a BST
+44. Lowest Common Ancestor of a Binary Tree
+45. Serialize and Deserialize Binary Tree
+46. Diameter of Binary Tree
+
+## Tier 2
+
+47. Binary Tree Inorder Traversal
+48. Recover Binary Search Tree
+49. Symmetric Tree
+50. Binary Tree Zigzag Level Order Traversal
+51. Maximum Depth of Binary Tree
+52. Convert Sorted Array to Binary Search Tree
+53. Balanced Binary Tree
+54. Minimum Depth of Binary Tree
+55. Path Sum
+56. Binary Tree Postorder Traversal
+57. Count Complete Tree Nodes
+58. Lowest Common Ancestor of a BST
+59. Serialize and Deserialize BST
+60. Minimum Absolute Difference in BST
+61. Average of Levels in Binary Tree
+62. Construct BST from Preorder Traversal
+63. Sum of Root to Leaf Binary Numbers
+64. All Elements in Two Binary Search Trees
+65. Count Good Nodes in Binary Tree
+66. Minimum Distance Between BST Nodes
+
+---
+
+Graphs (DFS/BFS)
+
+## Tier 1
+
+67. Word Ladder
+68. Surrounded Regions
+69. Clone Graph
+70. Number of Islands
+71. Evaluate Division
+72. Pacific Atlantic Water Flow
+73. Max Area of Island
+74. Rotting Oranges
+75. Shortest Path in Binary Matrix
+
+## Tier 2
+
+76. 01 Matrix
+77. Flood Fill
+78. Number of Enclaves
+
+## Tier 3
+
+79. Find the Town Judge
+80. Minimum Threshold Path With Limited Operations *(likely incomplete title)*
+
+---
+
+Topological Sort
+
+## Tier 1
+
+81. Course Schedule
+82. Course Schedule II
+83. Find Eventual Safe States
+
+---
+
+Union Find / Connected Components
+
+## Tier 1
+
+84. Redundant Connection
+85. Most Stones Removed with Same Row or Column
+86. Number of Operations to Make Network Connected
+
+---
+
+Shortest Path / Dijkstra
+
+## Tier 1
+
+87. Network Delay Time
+88. Cheapest Flights Within K Stops
+89. Path With Minimum Effort
+90. Number of Ways to Arrive at Destination
+
+## Tier 3
+
+91. Minimum Cost to Buy Apples II
+92. Minimum Threshold Path With Limited Operations *(probably this one)*
+
+---
+
+Greedy
+
+## Tier 1
+
+93. Gas Station
+
+## Tier 3
+
+94. Furthest Point From Origin
+95. Minimize Array Sum Using Divisible Operations
+96. Minimum Flips to Make Binary String Coherent
+97. Maximize Fixed Points After Deletions *(hard-ish greedy)*
+
+---
+
+Binary Search
+
+## Tier 2
+
+98. Sqrt(x)
+99. Single Element in a Sorted Array
+100. Peak Index in a Mountain Array
+
+---
+
+Stack / Monotonic Stack / Queue
+
+## Tier 1
+
+101. Sliding Window Maximum
+102. BST Iterator
+
+## Tier 2
+
+103. Online Stock Span
+104. Implement Stack Using Queues
+105. Implement Queue Using Stacks
+106. Build an Array With Stack Operations
+
+---
+
+Bit Manipulation
+
+## Tier 2
+
+107. Power of Two
+108. Sort Integers by Number of 1 Bits
+
+## Tier 3
+
+109. Complement of Base 10 Integer
+
+---
+
+Strings
+
+## Tier 2
+
+110. Reverse Words in a String
+
+## Tier 3
+
+111. Roman to Integer
+112. Count Valid Word Occurrences
+
+---
+
+Math / Simulation
+
+## Tier 2
+
+113. Pascal’s Triangle
+114. Power of Three
+115. Power of Four
+
+## Tier 3
+
+116. Number of Steps to Reduce a Number in Binary Representation to One
+117. Shortest Distance to Target String in a Circular Array
+118. Count Indices With Opposite Parity
+119. Score Validator
+120. Sum of Primes Between Numbers and… *(incomplete title)*
+
+---
+
+
+TIER 0, i.e., Most IMP
+1. Word Ladder
+2. Clone Graph
+3. Course Schedule I & II
+4. Path Sum III
+5. Sliding Window Maximum
+6. Cheapest Flights Within K Stops
+7. Number of Ways to Arrive at Destination
+8. Pacific Atlantic Water Flow
+9. Binary Tree Maximum Path Sum
+10. Path With Minimum Effort
+11. Most Stones Removed with Same Row or Column
+12. Subarray Sum Equals K
+13. Longest Repeating Character Replacement
+14. Binary Subarrays With Sum
+15. Rotting Oranges
+
