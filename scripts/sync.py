@@ -143,22 +143,38 @@ def graphql(query: str, variables: dict) -> dict:
             headers=HEADERS,
             timeout=30,
         )
+
+        print("Status:", resp.status_code)
+        print("Response:")
+        print(resp.text)
+
         resp.raise_for_status()
         return resp.json()
+
     except requests.RequestException as e:
-        print(f"  [ERROR] GraphQL request failed: {e}")
+        print(f"[ERROR] GraphQL request failed: {e}")
+
+        if 'resp' in locals():
+            print(resp.text)
+
         return {}
 
-
 def get_recent_accepted(limit: int = 50) -> list:
-    """Fetch recent accepted submissions."""
     print(f"Fetching last {limit} accepted submissions...")
+
     data = graphql(SUBMISSIONS_QUERY, {"limit": limit})
-    subs = data.get("data", {}).get("recentAcSubmissionList", [])
-    print(f"  Found {len(subs)} accepted submissions")
+
+    subs = (
+        data.get("data", {})
+            .get("recentAcSubmissionList")
+        or []
+    )
+
+    print(f"Found {len(subs)} accepted submissions")
+
     return subs
 
-
+    
 def get_submission_code(submission_id: str) -> dict:
     """Fetch the actual code + problem details for a submission."""
     data = graphql(SUBMISSION_DETAIL_QUERY, {"submissionId": int(submission_id)})
