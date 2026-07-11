@@ -1,0 +1,56 @@
+# ─────────────────────────────────────────────────────────────
+# LeetCode Auto-Sync — GitHub Actions Workflow
+# Runs every 6 hours + on manual trigger from GitHub UI
+# Pulls your latest accepted submissions from LeetCode
+# Commits them with date, day number, problem name, difficulty
+# ─────────────────────────────────────────────────────────────
+
+name: LeetCode Auto Sync
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'    # every 6 hours (midnight, 6am, noon, 6pm UTC)
+  workflow_dispatch:           # lets you trigger manually from GitHub Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # required to push commits back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dateutil
+
+      - name: Run LeetCode sync script
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF:    ${{ secrets.LEETCODE_CSRF }}
+        run: |
+          python scripts/sync.py
+
+      - name: Commit and push new solutions
+        run: |
+          git config user.name  "leetcode-sync-bot"
+          git config user.email "leetcode-sync-bot@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit — already up to date."
+          else
+            NEW=$(git diff --cached --name-only | grep -E "\.(py|js|java|cpp|ts)$" | wc -l)
+            git commit -m "sync: ${NEW} new solution(s) added on $(date +'%Y-%m-%d')"
+            git push
+            echo "Pushed ${NEW} new solution(s)."
+          fi
